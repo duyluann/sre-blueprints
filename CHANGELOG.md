@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+# 1.0.0 (2024-09-23)
+
+
+### Features
+
+* configure examples ([a45aa84](https://github.com/duyluann/sre-blueprints/commit/a45aa84ca3976c96d3a148372fa63f44a07abb34))
+
 # [1.4.0](https://github.com/duyluann/github-repo-template/compare/v1.3.4...v1.4.0) (2024-09-12)
 
 
